@@ -17,7 +17,9 @@ DATA PRIVACY IS IMPORTANT.
 Structure  
 server id - server name - channel id - channel name - member id - member tag - messasge id - message content - message has been changed
 Made up sample messages
+
 456789012345670123 - myServer - 678901234567012345 - myChannel - 234567890123456701 - myUser#0123 - 012345678901234567 - myMessage - false
+
 456789012345670123 - myServer - 678901234567012345 - myChannel - 234567890123456701 - myUser#0123 - 012345678901234567 - my message edited - true
 
 ## Legitimate uses
