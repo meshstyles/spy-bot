@@ -81,8 +81,11 @@ typings/
 # Serverless directories
 .serverless/
 
-# FuseBox cache
+# FuseBox cache 
 .fusebox/
 
 # DynamoDB Local files
 .dynamodb/
+
+#file that should be private
+botconfig.json

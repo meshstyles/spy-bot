@@ -1,0 +1,22 @@
+{
+  "name": "spy-bot",
+  "version": "1.0.0",
+  "description": "spidering arounf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meshstyles/spy-bot.git"
+  },
+  "author": "yeets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meshstyles/spy-bot/issues"
+  },
+  "homepage": "https://github.com/meshstyles/spy-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
